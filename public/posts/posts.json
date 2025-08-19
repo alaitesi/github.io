@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "hello-world",
+    "title": "Hello, World (and Blog)",
+    "date": "2025-08-09",
+    "summary": "Launching my tiny blog with kawaii vibes and React Router.",
+    "tags": ["intro", "personal"]
+  },
+  {
+    "slug": "quant-dash-notes",
+    "title": "Notes from a Cute Quant Dashboard",
+    "date": "2025-08-01",
+    "summary": "Designing an ETF momentum toy with delight-first UI.",
+    "tags": ["react", "design"]
+  } ,
+  {
+    "slug": "哈哈",
+    "title": "试验",
+    "date": "2025-08-19",
+    "summary": "Designing an ETF momentum toy with delight-first UI.",
+    "tags": ["react", "design"]
+  }
+]

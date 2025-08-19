@@ -1,0 +1,16 @@
+{
+  "name": "曾彦博",
+  "title": "数据科学家 · 证券从业",
+  "tagline": "☕ alpha因子挖掘中",
+  "about": "嗨！我是 {{name}}，喜欢游戏和美食。常驻 {{location}}。",
+  "seeMyWork": "看看我的作品",
+  "contactMe": "联系我",
+  "readBlog": "阅读博客",
+  "projects": "项目",
+  "skills": "技能",
+  "contact": "联系",
+  "openTo": "欢迎合作，找我聊天 ☺️",
+  "blogIntro": "关于工作与生活的简短笔记。",
+  "loading": "加载中…",
+  "back": "← 返回"
+}
