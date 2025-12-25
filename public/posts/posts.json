@@ -19,5 +19,12 @@
     "date": "2025-08-19",
     "summary": "Designing an ETF momentum toy with delight-first UI.",
     "tags": ["react", "design"]
-  }
+  } ,
+  {
+  "slug": "一切的开始",
+  "title": "一切的开始",
+  "date": "2025-08-19",
+  "summary": "我的第一篇博客，记录搭建个人网站的起点。",
+  "tags": ["随笔", "开始"]
+}
 ]
